@@ -7,7 +7,7 @@ from detection import detect_blue_cards
 THRESHOLDS = list(range(250, 30, -10))
 
 
-st.title("Детекция синих карт на изображении")
+st.title("Детекция карточек и фигур на них на изображении")
 uploaded_file = st.file_uploader(
     "Загрузите изображение", type=["jpg", "png", "jpeg"])
 
