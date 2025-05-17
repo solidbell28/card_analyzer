@@ -17,7 +17,7 @@ Streamlit-приложение для детекции синих карт на 
 
 1. Клонируйте репозиторий:
 ```bash 
-git clone git@github.com:solidbell28/card_analyzer.git
+git clone https://github.com/solidbell28/card_analyzer.git
 cd card_analyzer
 ```
 
