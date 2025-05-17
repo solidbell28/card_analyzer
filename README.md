@@ -17,8 +17,8 @@ Streamlit-приложение для детекции синих карт на 
 
 1. Клонируйте репозиторий:
 ```bash 
-git clone https://github.com/your_username/blue-card-detector.git 
-cd blue-card-detector
+git clone git@github.com:solidbell28/card_analyzer.git
+cd card_analyzer
 ```
 
 2. Установите зависимости
